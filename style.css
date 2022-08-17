@@ -17,6 +17,11 @@ i {
   position: relative;
 }
 
+label{
+    position: absolute;
+    left: 1000000000000px;
+}
+
 /* header */
 .header {
   display: flex;
